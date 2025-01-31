@@ -1,0 +1,12 @@
+
+optimizacija hiperparametera sa grid search
+
+dataset - mordred
+
+cross validation
+
+near zero variance - set na kojem smo dobili 0.45
+
+predaja
+
+2 tjedna - prezentacija (predaja)
